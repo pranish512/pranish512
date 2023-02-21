@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranish512
 - 👀 I’m interested in ...python, Django, javascripts, photography, photoshop
-- 🌱 I’m currently learning ...Djangi, javascripts
+- 🌱 I’m currently learning ...Django, javascripts
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...mail me: pranishnallasivam1223@gmail.com
 -                       instagram id: @pranis_h
